@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raldolondono
+- 👋 Hi, I’m @JuanCamiloGiraldoIng
 - 👀 I’m interested in Machine learning, Deep learning and Tiny ML
 - 🌱 I’m currently learning Artificial intelligence
 - 💞️ I’m looking to collaborate on Artificial intelligence proyects development
